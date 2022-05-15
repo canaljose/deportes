@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,  tvg-logo="http://television.com.ar/wp-content/uploads/2020/03/TNTSportsTw.jpg
-"group-title="España",TNT Sports
+#EXTINF:-1,  #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="España",TNT SPORTS
 https://edge9-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
 #EXTINF:-1,  tvg-logo="https://images.produ.com/noticias/0818/big-TyCSportsLogo.jpg"group-title="España",TyC Sports
@@ -16,8 +15,7 @@ https://edge9-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
 #EXTINF:-1,  tvg-logo="https://lh3.googleusercontent.com/-Be2ElF9gW0Q/YUGoGu1TDCI/AAAAAAAAAQg/Fb8rsIPZRJA1fLoypsKw9DCZOi9HhQ3awCLcBGAsYHQ/h120/ESPN_3.png"group-title="España",ESPN 3
 https://edge9-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 
-#EXTINF:-1,  tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.ESPN4_logo.png.6cabec4272e924e3273d3c6219ad67fb.png
-"group-title="España",ESPN 4
+#EXTINF:-1,  tvg-logo="https://www.mundocreativonicaragua.com/wp-content/uploads/2022/03/ESPN-4.jpg"group-title="España",ESPN 4
 https://edge9-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 
 #EXTINF:-1,  tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.ESPN4_logo.png.6cabec4272e924e3273d3c6219ad67fb.png"group-title="España",ESPN EXTRA
