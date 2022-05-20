@@ -6,7 +6,7 @@ https://edge9-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_H
 #EXTINF:-1,  tvg-logo="https://images.produ.com/noticias/0818/big-TyCSportsLogo.jpg"group-title="España",TyC Sports
 https://edge9-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 
-#EXTINF:-1,  tvg-logo="https://lh3.googleusercontent.com/-FYVcpfemo4c/YUGnQ9HvSsI/AAAAAAAAAQQ/MMr9AFOuPaQHThJkarFEJQ9OOhdaaMS5wCLcBGAsYHQ/h120/ESPN.png"group-title="España",Espn
+#EXTINF:-1,  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41lChb5Q+KL.png"group-title="España",Espn
  https://edge-live13-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 
 #EXTINF:-1,  tvg-logo="https://lh3.googleusercontent.com/-1bXOE3IaH0o/YUGnydIbP2I/AAAAAAAAAQY/yc0MjnBnjHUF2qqnIUnCalxVFBYsmIU7QCLcBGAsYHQ/h120/ESPN_2.png"group-title="España",ESPN 2
@@ -39,9 +39,9 @@ https://edge9-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.
 #EXTINF:-1,  tvg-logo="https://www.ver-television.online/images/deportv_.png"group-title="España",DeporTV
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
 
-#EXTINF:-1,  La liga-1 canal 157
+#EXTINF:-1,  vg-logo="https://www.seekpng.com/png/detail/301-3012069_la-liga-is-now-laliga-la-liga-logo.png"group-title="España",La liga-1
 https://www.webcsn.ru.com/cdn/premium538/chunks.m3u8
 
-#EXTINF:-1,  La liga-2 canal 159
+#EXTINF:-1,	vg-logo="https://www.seekpng.com/png/detail/301-3012069_la-liga-is-now-laliga-la-liga-logo.png"group-title="España",liga-2
 https://cdn2.bestvideostudio.workers.dev/cdn/premium539/chunks.m3u8
 
