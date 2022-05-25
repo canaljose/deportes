@@ -39,13 +39,9 @@ https://edge9-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Canal_DeporTV.jpg"group-title="España",DeporTV
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
 
-#EXTINF:-1,  La liga-1
-https://www.olacast.live/cdn/premium92/chunks.m3u8
+#EXTINF:-1,  Directv
+https://djcbqdsbihjidcgf.wzcdn804.net:8443/hls/c0lnt02o3bkx5fh.m3u8?s=n6T1044FVvHA0rypEQuGZA&e=1653539985
 
-#EXTINF:-1, MI LIGA OTRA OPCION
-https://www.olacast.live/cdn/premium375/chunks.m3u8
 
-#EXTINF:-1,  directv prueba
-https://ed5.zorrohd.nl/live/flowitc91zh.m3u8
 
 
