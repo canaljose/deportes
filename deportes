@@ -39,8 +39,13 @@ https://edge9-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Canal_DeporTV.jpg"group-title="España",DeporTV
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
 
-#EXTINF:-1,  Directv
-https://pelotero.net/directvsports.php/
+#EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg"group-title="España",LA 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1,  tvg-logo="https://scontent.fpac1-2.fna.fbcdn.net/v/t1.6435-1/185683211_3949479921756450_2132512790295727259_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=V1rAHbVZGngAX_4RmCe&_nc_ht=scontent.fpac1-2.fna&edm=AKsJ254EAAAA&oh=00_AT8WnyLy5g6q4Ejhm7eZethLgsof5_fhEbADb4x5Z922Hg&oe=62B888EB"group-title="España",LA 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+
 
 
 
