@@ -53,6 +53,23 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 
+#EXTINF:-1,  Directv
+https://ed1.zorrohd.nl/live/ST5c91497b14ed037.m3u8
+
+#EXTINF:-1, MI LIGA OTRA OPCION
+https://www.olacast.live/cdn/premium375/chunks.m3u8
+
+#EXTINF:-1,  WinSports
+https://ufqtkqhjufmbhuza.wzcdn134.net:8443/hls/fh7afadocwgtf.m3u8?s=YbWgvqWbjIVqZqDRAXcR1A&e=1654133600
+
+#EXTINF:-1,  WinPlus
+https://ufqtkqhjufmbhuza.wzcdn134.net:8443/hls/fh7afadocwgtf.m3u8?s=xvNCtEedhN65V1GBRlM2eg&e=1654136132
+
+#EXTINF:-1,  TUDN
+https://js.deplayer.pw:30443/edge/ver3d212e1d216437ba2d24502a4768ad44/chunks.m3u8?nimblesessionid=309257&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjIgODoxOTozNiBQTSZoYXNoX3ZhbHVlPU0reGtkRDh0OGhwcHpqSDNScHNWVGc9PSZ2YWxpZG1pbnV0ZXM9MTIw
+
+
+
 
 
 
