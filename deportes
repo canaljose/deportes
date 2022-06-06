@@ -39,8 +39,11 @@ https://edge9-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Canal_DeporTV.jpg"group-title="España",DeporTV
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
 
+#EXTINF:-1,  tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg"group-title="España",LA 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
 #EXTINF:-1, tvg-logo="https://curiosfera-historia.com/wp-content/uploads/Historia-de-las-carreras-de-caballos-1.jpg"group-title="España",Carrera de caballo
-https://mdstrm.com/live-stream-playlist/62616df888feb366839a3eb5.m3u8?uid=tVb33pgAFpOKcWFLjQfBoYryTlDhDBDL&sid=QxAUjDcKm0UNZUA44yjZg0POZtCLOyXU&pid=mHDWr6N7ONYOueJWUW6wOjIYOXFUAnF2&an=screen&at=web-app&av=v5.2.247&ref=https%3A%2F%2Fhipodromo.cl%2F&res=900x506&without_cookies=false&listenerid=&dvrOffset=
+https://mdstrm.com/live-stream-playlist/62616df888feb366839a3eb5.m3u8?uid=tVb33pgAFpOKcWFLjQfBoYryTlDhDBDL&sid=QxAUjDcKm0UNZUA44yjZg0POZtCLOyXU&pid=mHDWr6N7ONYOueJWUW6wOjIYOXFUAnF2&an=screen&at=web-app&av=v5.2.247&ref=https%3A%2F%2Fhipodromo.cl%2F&res=900x506&without_cookies=false&listenerid=&dvrOffset=36000&dnt=true
 
 #EXTINF:-1, cdn deportes
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/03ab3a290c9a4845b435d8948088bb7f/chunklist_b4628000.m3u8?p=79&s=1654469330&e=1654469450&h=1b62a7eacb6738d27b28787f900c5053
