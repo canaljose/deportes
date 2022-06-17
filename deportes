@@ -56,6 +56,10 @@ https://srvccc.rise2549blood.xyz/kaynakstreamradarco/26/naxi/caxi.m3u8?checkedby
 #EXTINF:-1,Bein Sports 3 AR
 http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1, tvg-logo="https://reddit.mlbstream.me/imgs/menu/mlb.svg"group-title="MLB",MLB
+https://tve-live.mlb.com/1655517223_8ea526963bd2e2be94e9713eb8ced5d39d401a3898b4edd9788fb3ed3a058d21/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
+
+
 
 
 
