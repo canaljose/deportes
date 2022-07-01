@@ -36,6 +36,12 @@ https://edge9-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.
 #EXTINF:-1,  tvg-logo="https://lh3.googleusercontent.com/-uNJcLj_R08s/Yf_LGMRS9gI/AAAAAAAAAXY/_V9xKblQkWMkuCniuSVVEu067qmHq9pzwCNcBGAsYHQ/h1280/ver-fox-sports-3-en-vivo.jpg"group-title="España",Fox Sports 3
 https://edge9-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 
+#EXTINF:-1,  tvg-logo="https://elcascotenews.com/wp-content/uploads/2020/10/IMG-20201023-WA0080-1024x540.jpg"group-title="España",BTV-PLUS
+https://edge3-hr.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
+
+#EXTINF:-1,  tvg-logo="https://directvmdq.files.wordpress.com/2009/10/vrzjrynpjwww5ma96eug.jpeg"group-title="España",BTV
+https://edge3-hr.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
+
 #EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Canal_DeporTV.jpg"group-title="España",DeporTV
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
 
