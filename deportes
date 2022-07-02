@@ -54,6 +54,11 @@ https://mdstrm.com/live-stream-playlist/62616df888feb366839a3eb5.m3u8?uid=tVb33p
 #EXTINF:-1, cdn deportes
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/03ab3a290c9a4845b435d8948088bb7f/chunklist_b4628000.m3u8?p=79&s=1654469330&e=1654469450&h=1b62a7eacb6738d27b28787f900c5053
 
+#EXTINF:-1,  tvg-logo="https://televisionlibre.net/img/logo_canal/Univision.png"group-title="España",UNIVICION
+https://v-la.mybtv.net/live/178.m3u8
+
+#EXTINF:-1,  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Teletica.png"group-title="España",TELETICA
+https://stream-04.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4-ZwLJDtu9NyAoXp9OWKCv2JHda0Zi1t9hw-rK2KsUI5)/dm/3/x83x5y5/d/live-2.m3u8#cell=lnyc
 ***************************************************************************************************************
 
 #EXTINF:-1,BeIN SPORT 3 HD
