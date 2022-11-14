@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,  #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="España",TNTSPORTS
-#KODIPROP:inputstream.adaptive.license_type=widevine
+#EXTINF:-1,  #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="España",TNTS-PORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dtvott-abc.akamaized.net
 https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 
