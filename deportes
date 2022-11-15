@@ -1,7 +1,7 @@
 #EXTM3U 
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="España",TNTSPORTSextraespn
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="España",extraespn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvar.json
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/dtvcl.json
 https://dtvott-cbc.akamaized.net/dash_live_1107/manifest.mpd
 
