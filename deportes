@@ -1,21 +1,9 @@
 #EXTM3U 
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",DIRECT80
-$play="#EXTM3U\n";
-#$play.="#KODIPROP:inputstreamaddon,inputstream.adaptive"."\n";
-#$play.="#KODIPROP:inputstream.adaptive.manifest_type=mpd"."\n";
-#$play.="#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha"."\n";   
-#$play.="#KODIPROP:inputstream.adaptive.server_certificate=rYCCAMSEHL+DSD08domI9jFJXcARnkYtpOAqgUijgIwggEKAoIBAQDEG8PxTwiALyDHGvKZjJxo7G6+XKHnjV4p2F+TvUng79fyRvk8rpEjl4k+V4V4YIfEIh2ZirIE3J8kCsNWvkdX3ZAsUVrEBf2mzpGTfsMGWsLbVPCMutqR/eLGpI2mAwkdyTEhoGsvDXv0ty5Q+z1YccFHyfNPVUfkEsYT8kyR/9f+gNvxWSNQcKfbM3DBhZNkvH3msCZnvGIZl/HvLU8hfe8ycMRExXKwVlpaCbe/0wMEanq38ENMhKJSrtWGQbFFMSMOyEWQwqhP0yY+zl4wQ+AC6VA5rVlegSa2u8+yGKTZwlLScQ/vd/y9p8vQEBDMAC5RP9hH8NfH6RaxovozAgMBAAE6CWRsYXR2Lm5ldBKAA2S7G3l4ei75sFFlhp5nFe8Vj/F8y4/0WNsliYzeEwFkZnrQS2ikJcgV7mPAre3i+TT07opXOJOSjkBk18G2/YOwK3DSXK2EpGCBEWOnncpPI2aHoy0zGvH8tdbGaMplYivD3agR14LVsQUx0YI3hO09OrUMscqgUonjEn3/TTgooLRRGtshRBqIcp0Ob/Cv3Dc6ech61j1/lK+8Lnt7U5Rzy0lCtbEqLXWL2QdoEMoROJ70Vkvv3SshpEtzn65yA87o2mkSRK1yZG7xk1IWQ+VOpXIgHrR8icsVaSvlK85L984Ziv8xFsp/cCqTMxBZplFviYv4Tkzv2H09qfg3OmeDfUWxg+u5YKJik9bu2iWFyBju/AQRfkUqvWaknV0sNm6keZmgVUe25k7H22hID4LuLxTTJcGPIJ1ZJayXYa/YE9ZnryqTgUyjawCIXS0+X4OaLs6FA2x0eXWQL6rjdutfts3m2vHySEn27730deLw86AxB78jcir7jhXNXvGzCQ=="."\n";
-#$play.="#KODIPROP:inputstream.adaptive.license_key=https://widevine-server-vod.video.net/licenser/getlicense|Content-Type=|{"token":"29abdfaf0d2703ef91810cc51d09e2f0","device_id":"71be677682638d51","widevineBody":"b{SSM}"}|" ."\n";
-#$play.= "#EXT-X-ENDLIST\n";
-$play.="#EXTINF:-1,".$title_channel."\n";
-$play.=$stream;
-echo $play;
-https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",DIRECT85
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",DIRECT88888
+#KODIPROP:inputstream=inputstream.adaptativo
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=5LP8TLRfoqD5eqKI%2Ft%2FH7BELNn64VSk%2BNgRfW9%2FSPu3B9%2Fo%2FZt98Zc8aP9%2FlHbkv2oEzi3oiMpzfcP0OIcSYohZqn1MtY2wfdnrEirZqkOr4N4Rnaff4GuMEcXQn5sxTfeCwGKW%2Ft30z3khWolbXybdALPVFbqd%2BAbnbLqH2chHWGA6WgVQhGPn%2BvpeeWDu0cJf5CjJESlkV35S%2FX4vXhn6A8M4z%2FGupnJ7h7IQSkkWctg3b%2FiR80DTe49OdCFgc||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=<token>||R{SSM}|
 https://dtvott-abc.akamaized.net/dash_live_1063/manifest.mpd
