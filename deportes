@@ -6,3 +6,8 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://dtvott-abc.akamaized.net/dash_live_1063/manifest.mpd
+
+
+EXTINF:-1,tvg-logo="https://www.tvmax-9.com/mas_deportes/Panama-Open-inicia-viernes_3980926.jpg"group-title="Panama",TVMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://bcovlive-a.akamaihd.net/9d72b1aa553e4773bc024c88c5f74c85/us-west-2/6058004209001/profile_1/chunklist_wv.m3u8
